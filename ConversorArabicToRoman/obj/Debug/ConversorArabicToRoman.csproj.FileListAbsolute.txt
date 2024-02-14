@@ -1,0 +1,7 @@
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\ConversorArabicToRoman\ConversorArabicToRoman\bin\Debug\ConversorArabicToRoman.exe.config
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\ConversorArabicToRoman\ConversorArabicToRoman\bin\Debug\ConversorArabicToRoman.exe
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\ConversorArabicToRoman\ConversorArabicToRoman\bin\Debug\ConversorArabicToRoman.pdb
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\ConversorArabicToRoman\ConversorArabicToRoman\obj\Debug\ConversorArabicToRoman.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\ConversorArabicToRoman\ConversorArabicToRoman\obj\Debug\ConversorArabicToRoman.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\ConversorArabicToRoman\ConversorArabicToRoman\obj\Debug\ConversorArabicToRoman.exe
+C:\Users\mario\Desktop\INTEC\Trimestre 11\Tendencias de Software\Lab\ConversorArabicToRoman\ConversorArabicToRoman\obj\Debug\ConversorArabicToRoman.pdb
