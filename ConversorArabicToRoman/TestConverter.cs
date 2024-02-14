@@ -20,7 +20,7 @@ namespace ConversorArabicToRoman
 
             ClassicAssert.AreEqual("DLXIX", converter.ConvertToRoman(testInput));
 
-            
+
 
         }
         [Test]
@@ -30,9 +30,9 @@ namespace ConversorArabicToRoman
             ConverterArabicToRoman converter = new ConverterArabicToRoman();
 
 
-           ClassicAssert.AreEqual("MMMMMMMCMXL", converter.ConvertToRoman(testInput));
+            ClassicAssert.AreEqual("MMMMMMMCMXL", converter.ConvertToRoman(testInput));
 
-            
+
 
         }
 
@@ -45,7 +45,7 @@ namespace ConversorArabicToRoman
 
             ClassicAssert.AreEqual("We just accept numbers between 1 - 9999", converter.ConvertToRoman(testInput));
 
-            
+
 
         }
 
